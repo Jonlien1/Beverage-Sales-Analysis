@@ -13,7 +13,7 @@ Analysis of 8,999,910 sales line items across 3 million orders in a German bever
 
 [[View the interactive dashboard on Tableau Public](TABLEAU_PUBLIC_URL)](https://public.tableau.com/app/profile/jon.lien/viz/BeverageSales_17895083194520/Dashboard1#1)
 
-<img width="1599" height="1199" alt="Beverage Sales Dashboard " src="https://github.com/user-attachments/assets/c09e1a04-2823-42a9-a670-0f2cfcf1673e" />
+<img width="1191" height="893" alt="Beverage_Sales_Dashboard" src="https://github.com/user-attachments/assets/bf35c1fd-647c-4924-b2cd-97792365ae59" />
 
 ## Data Source
 
