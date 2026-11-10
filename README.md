@@ -8,3 +8,13 @@ Analysis of 8,999,910 sales line items across 3 million orders in a German bever
 
 - **SQLite / DB Browser for SQLite** — data validation, SQL analysis, and summary exports
 - **Tableau Public** — interactive dashboard for revenue trends, regional performance, and discount-band comparisons
+
+## Tableau Dashboard
+
+[[View the interactive dashboard on Tableau Public](TABLEAU_PUBLIC_URL)](https://public.tableau.com/app/profile/jon.lien/viz/BeverageSales_17895083194520/Dashboard1#1)
+
+<img width="1599" height="1199" alt="Beverage Sales Dashboard " src="https://github.com/user-attachments/assets/c09e1a04-2823-42a9-a670-0f2cfcf1673e" />
+
+## Data Source
+
+[DATASET TITLE](ORIGINAL_DATASET_URL) — published by DATASET CREATOR on PLATFORM. The dataset contains 8,999,910 sales line items across 3 million orders from 2021 to 2023.
